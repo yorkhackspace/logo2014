@@ -1,0 +1,42 @@
+York Hackspace Logo
+===================
+
+This repository contains images and 3D models of the "new" York Hackspace logo.
+
+License
+=======
+
+This content is provided under the Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA 4.0).
+
+Please see "files" for details of particular source material.
+
+Files
+=====
+logo.svg
+logo-bw.svg
+logo-outline.svg
+
+Source SVG images (Inkspace SVG) of the logo - colour, black/white (block-fill) and outline.
+
+
+logo.fcstd
+
+FreeCAD Model (produced with freecad nightly build 0.14+git201406051902~ubuntu12.04.1)
+
+
+pdf/
+png/
+svg/
+
+Exported logo in various formats.  Note that SVG in particular tends to render incorrectly outside Inkscape.
+
+
+src/
+
+Source files used in producing the logo.
+  FlagOfYorkshire.svg (public domain image ,from http://en.wikipedia.org/wiki/File:FlagOfYorkshire.svg, downloaded 2014-06-04 22:08:39)
+  hackspace_logo.svg The Hackspace Logo, by Matthew Irvine Brown (used under CC-BY-SA 3.0, from http://www.irvinebrown.com/stuff/hackspace-art.zip, downloaded 2014-06-05 11:31:33)
+
+LICENSE
+
+Creative Commons Attribution-ShareAlike 4.0 International License Text (http://creativecommons.org/licenses/by-sa/4.0/legalcode.txt)
